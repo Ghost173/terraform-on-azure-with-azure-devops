@@ -28,4 +28,4 @@ provider "azurerm" {
 
 
 #comment for tigger azure
-#qa stage prod added for test
+#qa stage prod added for test test azure
